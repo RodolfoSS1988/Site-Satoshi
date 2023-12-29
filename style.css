@@ -1,0 +1,37 @@
+*{
+ margin: 5px;
+} 
+
+.img-fluid{
+    width: 300px;
+    margin-right: 1200px;
+    
+}
+
+/*.instituto-texto{
+    margin-right: 500px;
+    font-size: 20px;
+}
+.sobre{
+    font-size: 40px;
+}
+.texto-sobre{
+    margin-right: 500px;
+    font-size: 20px;
+}
+.titulo-servicos {
+margin-left: 10px;
+font-size: 35px;
+}
+.equipe-satoshi{
+    font-size: 35px;
+}
+.card-img-top20{
+    max-width: 743px;
+    height: 322px;
+
+}
+body{
+margin:0;
+     
+} 
